@@ -1,0 +1,35 @@
+body{
+  font-size: 10;
+  font-family: sans-serif;
+  background: rgb(227,227,227);
+  background: radial-gradient(circle, rgba(227,227,227,1) 9%, rgba(148,187,233,1) 100%);
+  margin: 0;
+}
+
+#content article{
+  border-radius: 20px;
+  background: #e6e6e6;
+  box-shadow:  5px 5px 18px #989898,
+               -5px -5px 50px #ffffff;
+  height: 170px;
+  width: 250px
+  display:block;
+  float: right;
+  padding: 10px;
+  margin: 20px;
+  margin-left: 0;
+
+}
+
+#content article p{
+  margin:5px;
+
+}
+
+h1{
+  background-color: #e3e3e3;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+
+}
